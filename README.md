@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola soy Julian 
+Estudiante de informatica aprendiendo git y github👋
 
 <!--
 **jmzuniga1061/jmzuniga1061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
